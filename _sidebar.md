@@ -85,4 +85,5 @@
   - [如何成为一位「不那么差」的程序员](soft-skills/how-to-be-developer.md)
   - [如何高效的使用 Git](soft-skills/how-to-use-git-efficiently.md)
 
-- [联系作者](contactme.md)
+  
+
